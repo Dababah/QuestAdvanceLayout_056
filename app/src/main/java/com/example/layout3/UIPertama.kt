@@ -39,7 +39,7 @@ fun ActivitasPertama (modifier: Modifier){
             fontWeight = FontWeight.Bold)
         Text(
             stringResource(R.string.univ),
-            fontSize= 20.sp,
+            fontSize = 20.sp,
             fontWeight = FontWeight.Bold)
         Spacer(modifier = Modifier.height(25.dp))
         Card(
